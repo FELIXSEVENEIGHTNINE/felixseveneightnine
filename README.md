@@ -1,5 +1,6 @@
 ## Hello, I'm Reaper
-something something
+A Computer Science student. <br> <br>
+Interested in: Level Design, Game Design, Fullstack Development, Programming
 
 <!--
 **FELIXSEVENEIGHTNINE/felixseveneightnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
