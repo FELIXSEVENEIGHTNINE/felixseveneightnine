@@ -1,6 +1,12 @@
 ## Hello, I'm Reaper
 A Computer Science student. <br> <br>
-Interested in: Level Design, Game Design, Fullstack Development, Programming
+Interested in: 
+  - Level Design,
+  - Game Design,
+  - Web Development,
+  - Programming
+
+### I’m currently working on a Laravel web project for Barangay Certificate and Clearance generator sent through your email in the Philippine setting.
 
 <!--
 **FELIXSEVENEIGHTNINE/felixseveneightnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
