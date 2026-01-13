@@ -6,7 +6,7 @@ Interested in:
   - Web Development,
   - Programming
 
-### I’m currently working on a Laravel web project for Barangay Certificate and Clearance generator sent through your email in the Philippine setting.
+I’m currently working on a Laravel web project for Barangay Certificate and Clearance generator sent through your email in the Philippine setting.
 
 <!--
 **FELIXSEVENEIGHTNINE/felixseveneightnine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
