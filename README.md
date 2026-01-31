@@ -1,10 +1,10 @@
 ## Hello, I'm Reaper
 A Computer Science student. <br> <br>
 Interested in: 
-  - Level Design,
-  - Game Design,
   - Web Development,
-  - Programming
+  - Programming, 
+  - Level Design,
+  - Game Design
 
 I’m currently working on a Laravel web project for Barangay Certificate and Clearance generator sent through your email in the Philippine setting.
 
